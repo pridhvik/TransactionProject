@@ -1,6 +1,6 @@
-package com.transaction.service;
+package com.account.service;
 
-import com.transaction.dto.TransactionDto;
+import com.account.dto.TransactionDto;
 
 public interface TransactionService {
 

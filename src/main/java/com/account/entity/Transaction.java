@@ -1,4 +1,4 @@
-package com.transaction.entity;
+package com.account.entity;
 
 import java.time.LocalDateTime;
 

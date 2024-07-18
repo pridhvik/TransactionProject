@@ -9,15 +9,15 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class TransactionDto {
 
-	private String description;
+	private String transactionId;
 
-	private String accountNumber;
+	private String description;
 
 	private Boolean isCredited;
 
 	private Double transactionAmount;
 
-	private Boolean isActive;
+	private String accountNumber;
 
-	private Integer accountId;
+	private String userName;
 }
